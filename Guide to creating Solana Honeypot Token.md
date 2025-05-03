@@ -6,6 +6,8 @@ We are a team of crypto enthusiasts and developers who conduct research in this 
 __Check out the complete guide to creating a Honeypot token in the Solana network:
 https://ethercodeinnovation.com/create-solana-honeypot-token/__
 
+__You can also watch the video tutorial: https://www.youtube.com/watch?v=yn3fd5ngI4Y&list=LL__
+
 __Telegram: @EtherCodeInnovation__
 
 __For individual orders, you can also contact: Telegram: @EtherCodeInnovation__
