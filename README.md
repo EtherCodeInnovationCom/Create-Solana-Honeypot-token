@@ -10,6 +10,8 @@ Using our script, you can freeze buyers by creating a token in the Solana networ
 __A complete guide to creating a Honeypot token in the Solana network:
 https://ethercodeinnovation.com/create-solana-honeypot-token/__
 
+__You can also watch the video tutorial: https://www.youtube.com/watch?v=yn3fd5ngI4Y&list=LL__
+
 A complete guide to getting users to buy your tokens https://ethercodeinnovation.com/promotion-tokens/
 
 4 code snippets for creating a script that freezes buyers:
