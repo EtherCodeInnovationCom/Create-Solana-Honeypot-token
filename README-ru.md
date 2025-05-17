@@ -26,7 +26,7 @@
 [https://ethercodeinnovation.com/ru/create-solana-honeypot-token/](https://ethercodeinnovation.com/ru/create-solana-honeypot-token/)
 
 🎬 **Видеоурок на YouTube:**  
-[https://www.youtube.com/watch?v=yn3fd5ngI4Y&list=LL](https://www.youtube.com/watch?v=yn3fd5ngI4Y&list=LL)
+[https://www.youtube.com/watch?v=hM2TnIhvug4&t=19s](https://www.youtube.com/watch?v=hM2TnIhvug4&t=19s)
 
 📈 **Как продвигать свои токены и заставить пользователей их покупать:**  
 [https://ethercodeinnovation.com/ru/promotion-tokens/](https://ethercodeinnovation.com/ru/promotion-tokens/)
