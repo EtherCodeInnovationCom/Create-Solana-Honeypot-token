@@ -1,4 +1,4 @@
-# How to Create a Honeypot Token on Solana — Full Step-by-Step Guide Rug Pull
+# How to Create a Honeypot Token on Solana — Full Step-by-Step Guide Rug Pull Solana
 
 Launch your own **Honeypot Token** on the **Solana** blockchain and list it on the decentralized exchange **Raydium**, following this complete guide by **EtherCode Innovation**.
 
