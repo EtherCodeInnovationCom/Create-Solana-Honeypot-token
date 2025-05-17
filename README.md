@@ -24,3 +24,25 @@ __For individual orders, you can also contact: Telegram: @EtherCodeInnovation__
 We will develop an individual smart contract or script with the functionality you need in the Solana network
 
 Our website: https://ethercodeinnovation.com/
+
+
+🌐 Available in other languages / Доступно на других языках / 在其他语言中可用:
+
+🇬🇧 [How to create a Solana honeypot token — Full guide (English)](https://ethercodeinnovation.com/create-solana-honeypot-token/)
+
+🇷🇺 [Как создать скам токен в Solana — полное руководство (Русский)](https://ethercodeinnovation.com/ru/create-solana-honeypot-token/)
+
+🇩🇪 [So erstellen Sie ein Honeypot-Token auf Solana – vollständige Anleitung (Deutsch)](https://ethercodeinnovation.com/de/create-solana-honeypot-token/)
+
+🇫🇷 [Comment créer un token honeypot sur Solana – Guide complet (Français)](https://ethercodeinnovation.com/fr/create-solana-honeypot-token/)
+
+🇹🇷 [Solana’da honeypot token nasıl oluşturulur – Tam kılavuz (Türkçe)](https://ethercodeinnovation.com/tr/create-solana-honeypot-token/)
+
+🇪🇸 [Cómo crear un token honeypot en Solana – Guía completa (Español)](https://ethercodeinnovation.com/es/create-solana-honeypot-token/)
+
+🇵🇹 [Como criar um token honeypot no Solana – Guia completo (Português)](https://ethercodeinnovation.com/pt/create-solana-honeypot-token/)
+
+🇮🇳 [Solana में honeypot टोकन कैसे बनाएं – पूरी गाइड (हिन्दी)](https://ethercodeinnovation.com/hi/create-solana-honeypot-token/)
+
+🇨🇳 [如何在 Solana 上创建陷阱代币 – 全面指南 (中文)](https://ethercodeinnovation.com/zh/create-solana-honeypot-token/)
+
