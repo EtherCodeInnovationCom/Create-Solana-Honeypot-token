@@ -1,48 +1,66 @@
-# Solana-Honeypot-token
-Step-by-step guide on __"How to create a Honeypot token on Solana network and then list it on Raydium"__
+# How to Create a Honeypot Token on Solana — Full Step-by-Step Guide
 
-Launch your own Honeypot Token on the Solana network with further listing on the decentralized exchange Raydium, following the instructions of EtherCode Innovation. We are a team of crypto enthusiasts and developers who conduct research in this area.
+Launch your own **Honeypot Token** on the **Solana** blockchain and list it on the decentralized exchange **Raydium**, following this complete guide by **EtherCode Innovation**.
 
-We recommend using materials only for educational and informational purposes
+We are a team of crypto enthusiasts and developers conducting deep research in blockchain mechanics, smart contracts, and on-chain behavioral patterns.
 
-Using our script, you can freeze buyers by creating a token in the Solana network and listing it on Raydium
+> ⚠️ This material is provided strictly for **educational and informational purposes** only.
 
-__A complete guide to creating a Honeypot token in the Solana network:
-https://ethercodeinnovation.com/create-solana-honeypot-token/__
+---
 
-__You can also watch the video tutorial: https://www.youtube.com/watch?v=yn3fd5ngI4Y&list=LL__
+## 🚀 What Is a Honeypot Token?
 
-A complete guide to getting users to buy your tokens https://ethercodeinnovation.com/promotion-tokens/
+A **honeypot token** is a type of deceptive cryptocurrency where users can **buy** but cannot **sell**. This effect is achieved by customizing token logic or smart contracts to restrict or block selling actions. It is often used in experiments, research, or scam analysis (use responsibly).
 
-4 code snippets for creating a script that freezes buyers:
-https://ethercodeinnovation.com/solana-honeypot-token-code/
+---
 
-__Telegram: @EtherCodeInnovation__
+## 🧰 What You Will Achieve
 
-__For individual orders, you can also contact: Telegram: @EtherCodeInnovation__
+Using our scripts and tools, you can:
+- Launch a new SPL token on Solana
+- Implement logic that blocks selling or restricts transfer permissions
+- List the token on Raydium and simulate trading behavior
+- Observe and analyze the results
 
-We will develop an individual smart contract or script with the functionality you need in the Solana network
+---
 
-Our website: https://ethercodeinnovation.com/
+## 📘 Full Resources
 
+🔗 **Complete written guide**:  
+[https://ethercodeinnovation.com/create-solana-honeypot-token/](https://ethercodeinnovation.com/create-solana-honeypot-token/)
 
-🌐 Available in other languages / Доступно на других языках / 在其他语言中可用:
+🎥 **Step-by-step video tutorial**:  
+[https://www.youtube.com/watch?v=yn3fd5ngI4Y&list=LL](https://www.youtube.com/watch?v=yn3fd5ngI4Y&list=LL)
 
-🇬🇧 [How to create a Solana honeypot token — Full guide (English)](https://ethercodeinnovation.com/create-solana-honeypot-token/)
+📈 **How to promote your token and drive buyers**:  
+[https://ethercodeinnovation.com/promotion-tokens/](https://ethercodeinnovation.com/promotion-tokens/)
 
-🇷🇺 [Как создать скам токен в Solana — полное руководство (Русский)](https://ethercodeinnovation.com/ru/create-solana-honeypot-token/)
+💻 **4 code snippets for freezing buyers on Solana**:  
+[https://ethercodeinnovation.com/solana-honeypot-token-code/](https://ethercodeinnovation.com/solana-honeypot-token-code/)
 
-🇩🇪 [So erstellen Sie ein Honeypot-Token auf Solana – vollständige Anleitung (Deutsch)](https://ethercodeinnovation.com/de/create-solana-honeypot-token/)
+---
 
-🇫🇷 [Comment créer un token honeypot sur Solana – Guide complet (Français)](https://ethercodeinnovation.com/fr/create-solana-honeypot-token/)
+## 📩 Contact Us
 
-🇹🇷 [Solana’da honeypot token nasıl oluşturulur – Tam kılavuz (Türkçe)](https://ethercodeinnovation.com/tr/create-solana-honeypot-token/)
+**Telegram**: [@EtherCodeInnovation](https://t.me/EtherCodeInnovation)  
+For individual development requests, we offer custom smart contracts or Solana-based scripts tailored to your needs.
 
-🇪🇸 [Cómo crear un token honeypot en Solana – Guía completa (Español)](https://ethercodeinnovation.com/es/create-solana-honeypot-token/)
+🌐 **Official Website**:  
+[https://ethercodeinnovation.com/](https://ethercodeinnovation.com/)
 
-🇵🇹 [Como criar um token honeypot no Solana – Guia completo (Português)](https://ethercodeinnovation.com/pt/create-solana-honeypot-token/)
+---
 
-🇮🇳 [Solana में honeypot टोकन कैसे बनाएं – पूरी गाइड (हिन्दी)](https://ethercodeinnovation.com/hi/create-solana-honeypot-token/)
+## 🌍 Available in Other Languages
 
-🇨🇳 [如何在 Solana 上创建陷阱代币 – 全面指南 (中文)](https://ethercodeinnovation.com/zh/create-solana-honeypot-token/)
+This guide is available in:
+
+- 🇷🇺 [Как создать скам токен в Solana — полное руководство (Русский)](./README-ru.md)
+- 🇩🇪 [So erstellen Sie ein Honeypot-Token auf Solana – vollständige Anleitung (Deutsch)](./README-de.md)
+- 🇫🇷 [Comment créer un token honeypot sur Solana – Guide complet (Français)](./README-fr.md)
+- 🇹🇷 [Solana’da honeypot token nasıl oluşturulur – Tam kılavuz (Türkçe)](./README-tr.md)
+- 🇪🇸 [Cómo crear un token honeypot en Solana – Guía completa (Español)](./README-es.md)
+- 🇵🇹 [Como criar um token honeypot no Solana – Guia completo (Português)](./README-pt.md)
+- 🇮🇳 [Solana में honeypot टोकन कैसे बनाएं – पूरी गाइड (हिन्दी)](./README-hi.md)
+- 🇨🇳 [如何在 Solana 上创建陷阱代币 – 全面指南 (中文)](./README-zh.md)
+
 
