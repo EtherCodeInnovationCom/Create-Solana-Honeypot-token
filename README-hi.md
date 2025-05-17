@@ -30,7 +30,7 @@ Solana नेटवर्क पर अपना खुद का **Honeypot ट
 [https://ethercodeinnovation.com/create-solana-honeypot-token/](https://ethercodeinnovation.com/create-solana-honeypot-token/)
 
 🎥 **वीडियो ट्यूटोरियल** (अंग्रेज़ी में):  
-[https://www.youtube.com/watch?v=yn3fd5ngI4Y&list=LL](https://www.youtube.com/watch?v=yn3fd5ngI4Y&list=LL)
+[https://www.youtube.com/watch?v=pT7XycLBkd8&t=68s](https://www.youtube.com/watch?v=pT7XycLBkd8&t=68s)
 
 📈 **अपने टोकन को प्रचारित करने और खरीदार आकर्षित करने के लिए** (अंग्रेज़ी में):  
 [https://ethercodeinnovation.com/promotion-tokens/](https://ethercodeinnovation.com/promotion-tokens/)
