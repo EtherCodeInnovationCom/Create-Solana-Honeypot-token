@@ -2,11 +2,12 @@ Step-by-step guide on __"How to create a Honeypot token on Solana network and th
 
 Launch your own Honeypot Token on the Solana network with further listing on the decentralized exchange Raydium, following the instructions of EtherCode Innovation. 
 We are a team of crypto enthusiasts and developers who conduct research in this area.
+Rugpull Rug Pull Solana
 
 __Check out the complete guide to creating a Honeypot token in the Solana network:
 https://ethercodeinnovation.com/create-solana-honeypot-token/__
 
-__You can also watch the video tutorial: https://www.youtube.com/watch?v=yn3fd5ngI4Y&list=LL__
+__You can also watch the video tutorial: https://www.youtube.com/watch?v=pT7XycLBkd8&t=68s__
 
 __Telegram: @EtherCodeInnovation__
 
