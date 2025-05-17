@@ -30,7 +30,7 @@ Bu rehber ve kodlarla şunları yapabilirsiniz:
 [https://ethercodeinnovation.com/create-solana-honeypot-token/](https://ethercodeinnovation.com/create-solana-honeypot-token/)
 
 🎥 **Video anlatım** (İngilizce):  
-[https://www.youtube.com/watch?v=yn3fd5ngI4Y&list=LL](https://www.youtube.com/watch?v=yn3fd5ngI4Y&list=LL)
+[https://www.youtube.com/watch?v=pT7XycLBkd8&t=68s](https://www.youtube.com/watch?v=pT7XycLBkd8&t=68s)
 
 📈 **Token’ınızı nasıl tanıtırsınız ve alıcı çekersiniz** (İngilizce):  
 [https://ethercodeinnovation.com/promotion-tokens/](https://ethercodeinnovation.com/promotion-tokens/)
