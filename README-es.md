@@ -30,7 +30,7 @@ Con nuestro script y recursos puedes:
 [https://ethercodeinnovation.com/create-solana-honeypot-token/](https://ethercodeinnovation.com/create-solana-honeypot-token/)
 
 🎥 **Tutorial en video** (en inglés):  
-[https://www.youtube.com/watch?v=yn3fd5ngI4Y&list=LL](https://www.youtube.com/watch?v=yn3fd5ngI4Y&list=LL)
+[https://www.youtube.com/watch?v=pT7XycLBkd8&t=68s](https://www.youtube.com/watch?v=pT7XycLBkd8&t=68s)
 
 📈 **Cómo promocionar tu token y atraer compradores** (en inglés):  
 [https://ethercodeinnovation.com/promotion-tokens/](https://ethercodeinnovation.com/promotion-tokens/)
